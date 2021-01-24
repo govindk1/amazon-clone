@@ -1,0 +1,9 @@
+1)react context (provider, useContext)
+2)useReducer with react context
+3)firebase email and password verification
+4)react router
+5)Login and logout using firebase
+
+//remaining things
+1)payment
+2)order page
